@@ -1,6 +1,7 @@
 # Data Files
 *.csv
 !Nassau Candy Distributor.csv
+!processed_nassau_candy.csv
 
 # AI Assistant Metadata
 .gemini/
