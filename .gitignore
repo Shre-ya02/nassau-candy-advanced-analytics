@@ -1,0 +1,19 @@
+# Data Files
+*.csv
+!Nassau Candy Distributor.csv
+
+# AI Assistant Metadata
+.gemini/
+brain/
+walkthrough.md
+implementation_plan.md
+task.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
